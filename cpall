@@ -3,7 +3,7 @@
 #bname=${HOSTNAME:0:6}
 
 pname=${PWD}
-for ((a=1;a<22;a++))
+for (a=1;a<22;a++)
 #for a in 1 2 3 4 5 6
 do
 #echo $node
